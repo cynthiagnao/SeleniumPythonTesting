@@ -1,0 +1,126 @@
+2024-08-05 18:04:00,897 :INFO :test_e2e :Getting all the card titles
+2024-08-05 18:04:01,027 :INFO :test_e2e :iphone X
+2024-08-05 18:04:01,049 :INFO :test_e2e :Samsung Note 8
+2024-08-05 18:04:01,062 :INFO :test_e2e :Nokia Edge
+2024-08-05 18:04:01,086 :INFO :test_e2e :Blackberry
+2024-08-05 18:04:01,428 :INFO :test_e2e :Entering country name as ind
+2024-08-05 18:04:08,391 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 18:08:04,451 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-05 18:08:10,690 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:08:10,690 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:08:21,301 :INFO :test_e2e :Getting all the card titles
+2024-08-05 18:08:21,346 :INFO :test_e2e :iphone X
+2024-08-05 18:08:21,356 :INFO :test_e2e :Samsung Note 8
+2024-08-05 18:08:21,368 :INFO :test_e2e :Nokia Edge
+2024-08-05 18:08:21,379 :INFO :test_e2e :Blackberry
+2024-08-05 18:08:21,555 :INFO :test_e2e :Entering country name as ind
+2024-08-05 18:08:27,310 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 18:16:32,516 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-05 18:16:39,486 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:16:39,486 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:16:52,474 :INFO :test_e2e :Getting all the card titles
+2024-08-05 18:16:52,521 :INFO :test_e2e :iphone X
+2024-08-05 18:16:52,572 :INFO :test_e2e :Samsung Note 8
+2024-08-05 18:16:52,587 :INFO :test_e2e :Nokia Edge
+2024-08-05 18:16:52,598 :INFO :test_e2e :Blackberry
+2024-08-05 18:16:52,788 :INFO :test_e2e :Entering country name as ind
+2024-08-05 18:16:59,583 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-05 18:32:06,499 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-05 18:32:19,391 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:32:19,391 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-05 18:32:48,981 :INFO :test_e2e :Getting all the card titles
+2024-08-05 18:32:49,017 :INFO :test_e2e :iphone X
+2024-08-05 18:32:49,028 :INFO :test_e2e :Samsung Note 8
+2024-08-05 18:32:49,042 :INFO :test_e2e :Nokia Edge
+2024-08-05 18:32:49,051 :INFO :test_e2e :Blackberry
+2024-08-05 18:32:50,030 :INFO :test_e2e :Entering country name as ind
+2024-08-05 18:32:56,049 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 15:22:33,919 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 15:22:41,690 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:22:41,690 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:22:57,673 :INFO :test_e2e :Getting all the card titles
+2024-08-06 15:22:57,708 :INFO :test_e2e :iphone X
+2024-08-06 15:22:57,722 :INFO :test_e2e :Samsung Note 8
+2024-08-06 15:22:57,736 :INFO :test_e2e :Nokia Edge
+2024-08-06 15:22:57,748 :INFO :test_e2e :Blackberry
+2024-08-06 15:22:57,947 :INFO :test_e2e :Entering country name as ind
+2024-08-06 15:23:03,819 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 15:47:18,317 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 15:47:24,596 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:47:24,596 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:47:35,097 :INFO :test_e2e :Getting all the card titles
+2024-08-06 15:47:35,138 :INFO :test_e2e :iphone X
+2024-08-06 15:47:35,150 :INFO :test_e2e :Samsung Note 8
+2024-08-06 15:47:35,165 :INFO :test_e2e :Nokia Edge
+2024-08-06 15:47:35,176 :INFO :test_e2e :Blackberry
+2024-08-06 15:47:35,359 :INFO :test_e2e :Entering country name as ind
+2024-08-06 15:47:41,145 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 15:58:57,245 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 15:59:03,971 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:59:03,971 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 15:59:24,967 :INFO :test_e2e :Getting all the card titles
+2024-08-06 15:59:25,006 :INFO :test_e2e :iphone X
+2024-08-06 15:59:25,016 :INFO :test_e2e :Samsung Note 8
+2024-08-06 15:59:25,030 :INFO :test_e2e :Nokia Edge
+2024-08-06 15:59:25,043 :INFO :test_e2e :Blackberry
+2024-08-06 15:59:25,215 :INFO :test_e2e :Entering country name as ind
+2024-08-06 15:59:30,932 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 16:03:19,036 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 16:03:28,658 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:03:28,658 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:07:57,596 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 16:08:04,683 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:08:04,683 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:08:15,441 :INFO :test_e2e :Getting all the card titles
+2024-08-06 16:08:15,485 :INFO :test_e2e :iphone X
+2024-08-06 16:08:15,502 :INFO :test_e2e :Samsung Note 8
+2024-08-06 16:08:15,514 :INFO :test_e2e :Nokia Edge
+2024-08-06 16:08:15,528 :INFO :test_e2e :Blackberry
+2024-08-06 16:08:15,693 :INFO :test_e2e :Entering country name as ind
+2024-08-06 16:08:21,677 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 16:16:00,918 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 16:16:07,633 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:16:07,633 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:16:24,996 :INFO :test_e2e :Getting all the card titles
+2024-08-06 16:16:25,072 :INFO :test_e2e :iphone X
+2024-08-06 16:16:25,380 :INFO :test_e2e :Samsung Note 8
+2024-08-06 16:16:25,532 :INFO :test_e2e :Nokia Edge
+2024-08-06 16:16:25,872 :INFO :test_e2e :Blackberry
+2024-08-06 16:16:26,961 :INFO :test_e2e :Entering country name as ind
+2024-08-06 16:16:34,306 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-06 16:43:00,419 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-06 16:43:07,069 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:43:07,069 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-06 16:43:18,466 :INFO :test_e2e :Getting all the card titles
+2024-08-06 16:43:18,518 :INFO :test_e2e :iphone X
+2024-08-06 16:43:18,536 :INFO :test_e2e :Samsung Note 8
+2024-08-06 16:43:18,552 :INFO :test_e2e :Nokia Edge
+2024-08-06 16:43:18,563 :INFO :test_e2e :Blackberry
+2024-08-06 16:43:18,793 :INFO :test_e2e :Entering country name as ind
+2024-08-06 16:43:25,182 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 10:22:57,338 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-07 10:23:09,219 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-07 10:23:09,219 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-07 10:23:51,254 :INFO :test_e2e :Getting all the card titles
+2024-08-07 10:23:51,288 :INFO :test_e2e :iphone X
+2024-08-07 10:23:51,298 :INFO :test_e2e :Samsung Note 8
+2024-08-07 10:23:51,309 :INFO :test_e2e :Nokia Edge
+2024-08-07 10:23:51,320 :INFO :test_e2e :Blackberry
+2024-08-07 10:23:51,950 :INFO :test_e2e :Entering country name as ind
+2024-08-07 10:23:57,866 :INFO :test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-07 14:13:40,653 :INFO :test_formSubmission :Firstname is Cynthia
+2024-08-07 14:13:47,509 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-07 14:13:47,509 :INFO :test_formSubmission :Firstname is Isaac
+2024-08-07 14:15:53,230 :INFO :test_formSubmission :Firstname is linda
+2024-08-07 14:17:35,272 :INFO :test_formSubmission :Firstname is linda
